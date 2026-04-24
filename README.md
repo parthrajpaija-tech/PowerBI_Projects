@@ -7,7 +7,7 @@ These projects demonstrate skills in data cleaning, visualization, KPI tracking,
 
 # 🖼️ Dashboard 1: Pharma Sales Dashboard
 
-![Pharma Dashboard](pharma dashbord/Dashboard_image.png)
+![Pharma Dashboard](pharma_dashbord/Dashboard_image.png)
 
 ## Overview
 
