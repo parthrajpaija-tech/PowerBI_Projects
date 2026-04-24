@@ -33,7 +33,7 @@ The Pharma Sales Dashboard analyzes revenue, cost, profit, and delivery performa
 
 # 🖼️ Dashboard 2: (Manufacturing Performance Analysis)
 
-![Manufacturing Dashboard](Manufacturing_Performance_Analysis/image.png)
+![Manufacturing Dashboard](Manufacturing%20Performance%20Analysis/image.png)
 
 ## Overview
 
