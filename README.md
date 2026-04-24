@@ -7,7 +7,7 @@ These projects demonstrate skills in data cleaning, visualization, KPI tracking,
 
 # 🖼️ Dashboard 1: Pharma Sales Dashboard
 
-![Dashboard](pharma_dashbord/pharma-dashboard.png)
+![Pharma Dashboard](pharma dashbord/Dashboard_image.png)
 
 ## Overview
 
@@ -33,7 +33,7 @@ The Pharma Sales Dashboard analyzes revenue, cost, profit, and delivery performa
 
 # 🖼️ Dashboard 2: (Write Your Dashboard Name Here)
 
-![Dashboard](Manufacturing Performance Analysis/dashboard2-image.png)
+![Dashboard](Manufacturing Performance Analysis/image.png)
 
 ## Overview
 
